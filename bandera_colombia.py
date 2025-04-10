@@ -18,7 +18,7 @@ pygame.display.set_caption("bandera_colombia")
 ventana = pygame.display.set_mode((400,400))
 
 # definicion del color
-color_aleatorio = ()
+color_bandera = ()
 
 # crear una superficies
 
