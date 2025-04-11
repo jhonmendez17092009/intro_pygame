@@ -35,10 +35,10 @@ while 1:
 
     for i in range(100):
 
-        a = random.randint(50,400)
-        b = random.randint(100,400)
-        c = random.randint(50,400)
-        d = random.randint(100,400)
+        a = random.randint(50,447)
+        b = random.randint(50,450)
+        c = random.randint(50,445)
+        d = random.randint(50,450)
 
         r = (random.randint(0,255), random.randint(0,255), random.randint(0,255))
 
