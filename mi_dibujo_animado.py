@@ -59,24 +59,17 @@ while 1:
     pygame.draw.circle(ventana, w, (365, 80), 12, 0)
     pygame.draw.circle(ventana, w, (395, 80), 12, 0)
 
-    # Pupilas
+    # Boca
+    pygame.draw.circle(ventana, r, (380, 106), 9, 0)
+
+    # pupila 
     pygame.draw.circle(ventana, m, (365, 80), 6, 0)
     pygame.draw.circle(ventana, m, (395, 80), 6, 0)
 
-    # Boca
-    pygame.draw.circle(ventana, r, (380, 106), 9, 0)
+
 
     # Cejas
     pygame.draw.line(ventana, n, (360, 60), (370, 70), 3)
     pygame.draw.line(ventana, n, (390, 70), (400, 60), 3)
 
     pygame.display.flip()
-
-
-
-
-
-
-
-
-
